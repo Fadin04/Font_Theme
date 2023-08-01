@@ -13,9 +13,8 @@
  * @authorLink 
 */
 
-@import url('https://fonts.googleapis.com/css2?family=Borel&family=Electrolize&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Borel&display=swap');
 
 :root {
   --font-family: 'Borel', cursive;
-  --font-family: 'Electrolize', sans-serif;
 }
